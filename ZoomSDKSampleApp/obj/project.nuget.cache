@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WelQ6Pr0ECf95cbjHmemWFCzqQEC016xL3kfxoHxOzLplYchNvrGZTai7mweGI6iENLxxjKbzaFRIEpvKjyhYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\ZoomSDKSampleApp\\ZoomSDKSampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "D:\\Nuget\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "D:\\Nuget\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "D:\\Nuget\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

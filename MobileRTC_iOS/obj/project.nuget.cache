@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AcdQMlSqJtg8+pana5aBSUAlcdJSPWah9T5kmwb0kqv4wRpCsNwnmn4HGBzm9VG/m4LavcNpEAjhzjL+/fJzqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\MobileRTC_iOS.csproj",
+  "expectedPackageFiles": [
+    "D:\\Nuget\\nuget.build.tasks.pack\\6.3.0\\nuget.build.tasks.pack.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

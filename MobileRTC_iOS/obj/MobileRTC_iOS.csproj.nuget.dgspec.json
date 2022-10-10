@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\MobileRTC_iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\MobileRTC_iOS.csproj": {
+      "version": "5.11.10.4556",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\MobileRTC_iOS.csproj",
+        "projectName": "VisualService.Xamarin.iOS.ZoomSDK",
+        "projectPath": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\MobileRTC_iOS.csproj",
+        "packagesPath": "D:\\Nuget",
+        "outputPath": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Michele DM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Michele DM\\Documents\\GitHub\\Xamarin.ZoomSDKBinding\\src\\Droid\\MobileRTC_Droid\\bin\\Release": {},
+          "C:\\Users\\Michele DM\\Documents\\GitHub\\Xamarin.ZoomSDKBinding\\src\\iOS\\MobileRTC_iOS\\bin\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "NuGet.Build.Tasks.Pack": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

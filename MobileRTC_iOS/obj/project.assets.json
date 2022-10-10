@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {
+      "NuGet.Build.Tasks.Pack/6.3.0": {
+        "type": "package",
+        "build": {
+          "build/NuGet.Build.Tasks.Pack.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildCrossTargeting/NuGet.Build.Tasks.Pack.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NuGet.Build.Tasks.Pack/6.3.0": {
+      "sha512": "JGN8WHJr/PkVX7FNn7BR++72f6erxDaEFxiBU/Or9Av+Fu8grTeYYX5zkHbjpG4+aJnag6tI51XcbIkqsVabIw==",
+      "type": "package",
+      "path": "nuget.build.tasks.pack/6.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CoreCLR/NuGet.Build.Tasks.Pack.dll",
+        "CoreCLR/cs/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/de/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/es/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/fr/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/it/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/ja/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/ko/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/pl/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/pt-BR/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/ru/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/tr/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/zh-Hans/NuGet.Build.Tasks.Pack.resources.dll",
+        "CoreCLR/zh-Hant/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/NuGet.Build.Tasks.Pack.dll",
+        "Desktop/cs/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/de/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/es/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/fr/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/it/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/ja/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/ko/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/pl/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/pt-BR/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/ru/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/tr/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/zh-Hans/NuGet.Build.Tasks.Pack.resources.dll",
+        "Desktop/zh-Hant/NuGet.Build.Tasks.Pack.resources.dll",
+        "README.md",
+        "build/NuGet.Build.Tasks.Pack.targets",
+        "buildCrossTargeting/NuGet.Build.Tasks.Pack.targets",
+        "icon.png",
+        "nuget.build.tasks.pack.6.3.0.nupkg.sha512",
+        "nuget.build.tasks.pack.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": [
+      "NuGet.Build.Tasks.Pack >= 6.3.0"
+    ]
+  },
+  "packageFolders": {
+    "D:\\Nuget": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "5.11.10.4556",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\MobileRTC_iOS.csproj",
+      "projectName": "VisualService.Xamarin.iOS.ZoomSDK",
+      "projectPath": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\MobileRTC_iOS.csproj",
+      "packagesPath": "D:\\Nuget",
+      "outputPath": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\MobileRTC_iOS\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Michele DM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Michele DM\\Documents\\GitHub\\Xamarin.ZoomSDKBinding\\src\\Droid\\MobileRTC_Droid\\bin\\Release": {},
+        "C:\\Users\\Michele DM\\Documents\\GitHub\\Xamarin.ZoomSDKBinding\\src\\iOS\\MobileRTC_iOS\\bin\\Release": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {
+        "dependencies": {
+          "NuGet.Build.Tasks.Pack": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.3.0, )"
+          }
+        }
+      }
+    }
+  }
+}

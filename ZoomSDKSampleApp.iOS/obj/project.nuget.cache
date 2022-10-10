@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "18RctcEjcujPMO15ycrPECVxCulWG8d/Hbm/5HXnWte4nsn/xKpHqyReuTWLr6eNson/NpZVQwOs24hsgyM8jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michele DM\\Documents\\GitHub\\Test.ZoomBinding\\ZoomSDKSampleApp.iOS\\ZoomSDKSampleApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "D:\\Nuget\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "D:\\Nuget\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "D:\\Nuget\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512",
+    "D:\\Nuget\\visualservice.xamarin.ios.zoomsdk\\5.11.10.4556\\visualservice.xamarin.ios.zoomsdk.5.11.10.4556.nupkg.sha512"
+  ],
+  "logs": []
+}

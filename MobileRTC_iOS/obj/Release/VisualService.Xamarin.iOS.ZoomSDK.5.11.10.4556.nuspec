@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VisualService.Xamarin.iOS.ZoomSDK</id>
+    <version>5.11.10.4556</version>
+    <title>Xamarin.iOS.Zoom</title>
+    <authors>Michele Di Maria</authors>
+    <owners>Michele Di Maria</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/VisualService/Xamarin.ZoomSDKBinding</projectUrl>
+    <description>Zoom iOS SDK binding for Xamarin. iOS version of the SDK</description>
+    <copyright>Copyright 2022</copyright>
+    <tags>Xamarin.iOS, Zoom</tags>
+    <dependencies>
+      <group targetFramework="Xamarin.iOS1.0">
+        <dependency id="NuGet.Build.Tasks.Pack" version="5.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="Xamarin.iOS1.0" />
+      <frameworkAssembly assemblyName="System.Drawing.Common.dll" targetFramework="Xamarin.iOS1.0" />
+      <frameworkAssembly assemblyName="Xamarin.iOS" targetFramework="Xamarin.iOS1.0" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\bin\Release\Zoomios.dll" target="lib\xamarinios10\Zoomios.dll" />
+    <file src="C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\Res\icon.png" target="icon.png" />
+  </files>
+</package>

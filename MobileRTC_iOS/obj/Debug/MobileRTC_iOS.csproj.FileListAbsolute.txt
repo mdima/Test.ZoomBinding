@@ -1,0 +1,16 @@
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\bin\Debug\Zoomios.dll
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\bin\Debug\Zoomios.pdb
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\obj\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\obj\Debug\_ProcessedContentPath.items
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\obj\Debug\MobileRTC_iOS.csproj.AssemblyReference.cache
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\obj\Debug\MobileRTC_iOS.csproj.CoreCompileInputs.cache
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\obj\Debug\Zoomios.dll
+C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\src\iOS\MobileRTC_iOS\obj\Debug\Zoomios.pdb
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\bin\Debug\Zoomios.dll
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\bin\Debug\Zoomios.pdb
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\obj\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\obj\Debug\_ProcessedContentPath.items
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\obj\Debug\MobileRTC_iOS.csproj.AssemblyReference.cache
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\obj\Debug\MobileRTC_iOS.csproj.CoreCompileInputs.cache
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\obj\Debug\Zoomios.dll
+C:\Users\Michele DM\Documents\GitHub\Test.ZoomBinding\MobileRTC_iOS\obj\Debug\Zoomios.pdb

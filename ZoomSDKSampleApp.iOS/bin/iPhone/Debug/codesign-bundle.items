@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="ZoomSDKSampleApp.iOS.app">
+      <CodesignSigningKey>38AA434678216A07099CBC773C84A75BA6920A68</CodesignSigningKey>
+      <CodesignEntitlements>\Users\michele\Library\Caches\Xamarin\mtbs\builds\ZoomSDKSampleApp.iOS\26dfde2591620e6b9bccfddf9efeb7a09b1c0bc1d5d6f2a7f87456b215b7c260\obj\iPhone\Debug\Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>\Applications\Xcode.app\Contents\Developer\Toolchains\XcodeDefault.xctoolchain\usr\bin\codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\samples\ZoomSDKSampleApp\ZoomSDKSampleApp.iOS</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>

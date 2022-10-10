@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="ZoomSDKSampleApp.iOS.app/ZoomSDKSampleApp.iOS">
+      <BCSymbolMapName>ZoomSDKSampleApp.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>ZoomSDKSampleApp.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\michele\Library\Caches\Xamarin\mtbs\builds\ZoomSDKSampleApp.iOS\26dfde2591620e6b9bccfddf9efeb7a09b1c0bc1d5d6f2a7f87456b215b7c260\obj\iPhone\Debug\mtouch-symbols.list</SymbolFile>
+      <DSymName>ZoomSDKSampleApp.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Users\Michele DM\Documents\GitHub\Xamarin.ZoomSDKBinding\samples\ZoomSDKSampleApp\ZoomSDKSampleApp.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
